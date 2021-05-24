@@ -1,0 +1,96 @@
+Tamanho do K =  9
+videoStatic/video.mp4
+Tamanho Mensagem Descompactada:  2111047
+duracao compressao: 2.771731
+Tamanho Mensagem Compactada:  2359912
+duracao descompressao: 1.571109
+Tamanho do K =  9
+textoStatic/corpus16MB.txt
+Tamanho Mensagem Descompactada:  15637070
+duracao compressao: 14.227374
+Tamanho Mensagem Compactada:  10302668
+duracao descompressao: 7.904099
+Tamanho do K =  10
+videoStatic/video.mp4
+Tamanho Mensagem Descompactada:  2111047
+duracao compressao: 2.948100
+Tamanho Mensagem Compactada:  2613378
+duracao descompressao: 1.665587
+Tamanho do K =  10
+textoStatic/corpus16MB.txt
+Tamanho Mensagem Descompactada:  15637070
+duracao compressao: 13.340311
+Tamanho Mensagem Compactada:  9208047
+duracao descompressao: 7.701594
+Tamanho do K =  11
+videoStatic/video.mp4
+Tamanho Mensagem Descompactada:  2111047
+duracao compressao: 3.643052
+Tamanho Mensagem Compactada:  2862104
+duracao descompressao: 2.078474
+Tamanho do K =  11
+textoStatic/corpus16MB.txt
+Tamanho Mensagem Descompactada:  15637070
+duracao compressao: 13.305867
+Tamanho Mensagem Compactada:  8437402
+duracao descompressao: 6.643451
+Tamanho do K =  12
+videoStatic/video.mp4
+Tamanho Mensagem Descompactada:  2111047
+duracao compressao: 3.599269
+Tamanho Mensagem Compactada:  3104067
+duracao descompressao: 1.591267
+Tamanho do K =  12
+textoStatic/corpus16MB.txt
+Tamanho Mensagem Descompactada:  15637070
+duracao compressao: 7.985396
+Tamanho Mensagem Compactada:  7966400
+duracao descompressao: 3.636138
+Tamanho do K =  13
+videoStatic/video.mp4
+Tamanho Mensagem Descompactada:  2111047
+duracao compressao: 2.206834
+Tamanho Mensagem Compactada:  3183843
+duracao descompressao: 1.275156
+Tamanho do K =  13
+textoStatic/corpus16MB.txt
+Tamanho Mensagem Descompactada:  15637070
+duracao compressao: 7.171524
+Tamanho Mensagem Compactada:  7639697
+duracao descompressao: 3.352342
+Tamanho do K =  14
+videoStatic/video.mp4
+Tamanho Mensagem Descompactada:  2111047
+duracao compressao: 2.100602
+Tamanho Mensagem Compactada:  3102087
+duracao descompressao: 1.195308
+Tamanho do K =  14
+textoStatic/corpus16MB.txt
+Tamanho Mensagem Descompactada:  15637070
+duracao compressao: 7.299331
+Tamanho Mensagem Compactada:  7350504
+duracao descompressao: 3.010690
+Tamanho do K =  15
+videoStatic/video.mp4
+Tamanho Mensagem Descompactada:  2111047
+duracao compressao: 1.869350
+Tamanho Mensagem Compactada:  2850722
+duracao descompressao: 1.070558
+Tamanho do K =  15
+textoStatic/corpus16MB.txt
+Tamanho Mensagem Descompactada:  15637070
+duracao compressao: 6.783622
+Tamanho Mensagem Compactada:  7060950
+duracao descompressao: 2.908396
+Tamanho do K =  16
+videoStatic/video.mp4
+Tamanho Mensagem Descompactada:  2111047
+duracao compressao: 1.865510
+Tamanho Mensagem Compactada:  2579156
+duracao descompressao: 0.963610
+Tamanho do K =  16
+textoStatic/corpus16MB.txt
+Tamanho Mensagem Descompactada:  15637070
+duracao compressao: 6.383376
+Tamanho Mensagem Compactada:  6790094
+duracao descompressao: 2.580970

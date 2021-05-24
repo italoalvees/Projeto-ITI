@@ -1,0 +1,96 @@
+Tamanho do K =  9
+video/video.mp4
+Tamanho Mensagem Descompactada:  2111047
+duracao compressao: 2.646785
+Tamanho Mensagem Compactada:  2353462
+duracao descompressao: 1.721123
+Tamanho do K =  9
+texto/corpus16MB.txt
+Tamanho Mensagem Descompactada:  15637070
+duracao compressao: 21.057611
+Tamanho Mensagem Compactada:  11668029
+duracao descompressao: 13.425328
+Tamanho do K =  10
+video/video.mp4
+Tamanho Mensagem Descompactada:  2111047
+duracao compressao: 3.871942
+Tamanho Mensagem Compactada:  2594499
+duracao descompressao: 2.475078
+Tamanho do K =  10
+texto/corpus16MB.txt
+Tamanho Mensagem Descompactada:  15637070
+duracao compressao: 17.559949
+Tamanho Mensagem Compactada:  10228573
+duracao descompressao: 10.915297
+Tamanho do K =  11
+video/video.mp4
+Tamanho Mensagem Descompactada:  2111047
+duracao compressao: 3.861442
+Tamanho Mensagem Compactada:  2819518
+duracao descompressao: 2.507691
+Tamanho do K =  11
+texto/corpus16MB.txt
+Tamanho Mensagem Descompactada:  15637070
+duracao compressao: 15.458931
+Tamanho Mensagem Compactada:  9374704
+duracao descompressao: 9.127905
+Tamanho do K =  12
+video/video.mp4
+Tamanho Mensagem Descompactada:  2111047
+duracao compressao: 3.744665
+Tamanho Mensagem Compactada:  3012224
+duracao descompressao: 2.502753
+Tamanho do K =  12
+texto/corpus16MB.txt
+Tamanho Mensagem Descompactada:  15637070
+duracao compressao: 12.799362
+Tamanho Mensagem Compactada:  8733656
+duracao descompressao: 6.313503
+Tamanho do K =  13
+video/video.mp4
+Tamanho Mensagem Descompactada:  2111047
+duracao compressao: 3.028130
+Tamanho Mensagem Compactada:  3153376
+duracao descompressao: 2.030601
+Tamanho do K =  13
+texto/corpus16MB.txt
+Tamanho Mensagem Descompactada:  15637070
+duracao compressao: 10.611743
+Tamanho Mensagem Compactada:  8195516
+duracao descompressao: 5.499914
+Tamanho do K =  14
+video/video.mp4
+Tamanho Mensagem Descompactada:  2111047
+duracao compressao: 2.868541
+Tamanho Mensagem Compactada:  3210143
+duracao descompressao: 1.807198
+Tamanho do K =  14
+texto/corpus16MB.txt
+Tamanho Mensagem Descompactada:  15637070
+duracao compressao: 9.670682
+Tamanho Mensagem Compactada:  7721783
+duracao descompressao: 4.093583
+Tamanho do K =  15
+video/video.mp4
+Tamanho Mensagem Descompactada:  2111047
+duracao compressao: 2.271965
+Tamanho Mensagem Compactada:  3154924
+duracao descompressao: 1.490035
+Tamanho do K =  15
+texto/corpus16MB.txt
+Tamanho Mensagem Descompactada:  15637070
+duracao compressao: 7.905260
+Tamanho Mensagem Compactada:  7299589
+duracao descompressao: 3.836636
+Tamanho do K =  16
+video/video.mp4
+Tamanho Mensagem Descompactada:  2111047
+duracao compressao: 2.153033
+Tamanho Mensagem Compactada:  2993372
+duracao descompressao: 1.465661
+Tamanho do K =  16
+texto/corpus16MB.txt
+Tamanho Mensagem Descompactada:  15637070
+duracao compressao: 6.928858
+Tamanho Mensagem Compactada:  6940646
+duracao descompressao: 3.350062
