@@ -30,7 +30,8 @@ def codificar(mensagem: AnyStr, tamanhoKbits: int) -> bytes:
     tam_mensagem: int = len(mensagem) + 1
     
 
-    #Corpo principal da função, inicialmente é testado se o dicionário está preenchido para poder reseta-lo,
+    #Corpo principal da função, inicialmente é testado se o dicionário está preenchido para poder reseta-lo
+    #(no estático não temos essa testagem, apenas se testa se já está preenchido, caso esteja ele não aceita mais inserções.),
     #após isso é iniciado um for que irá de 1 até o tam_mensagem - inicio, esse valor corresponde ao tamanho inicial da msg
     #  - onde está o começo das combinações restantes. Dentro desse for é criada a combinação [inicio : inicio + 1], caso esteja no dicionário,
     #é começado um novo loop e incrementado o i, aumentando assim um caractere na combinação, esse loop só para quando acha uma combinação que 
